@@ -35,5 +35,11 @@ The SQL solutions were cross-checked against the CSV datasets. A few original st
 ## Example Use
 Load the CSV files into a SQL database, create the related tables, and run the statements in `sql/Project.sql`. Adjust SQL syntax if using a database engine other than MySQL.
 
-## License
-This project is intended for learning, portfolio presentation, and SQL practice.
+👤 Author
+M. Kiran Sai Babu
+
+B.Tech — Computer Science & Engineering
+
+Aspiring Data Analyst Fresher Looking for Opportunity
+
+Mail : kiransaimaddela47@gmail.com
